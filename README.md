@@ -1,2 +1,3 @@
 # TempMailHunter
-Real-time disposable email detection and blacklisting. Run it as your own API to identify and block temporary email addresses as they appear.
+- Blocks common disposable emails, even from legitimate domains, such as @gmail.com @hotmail.com @outlook.com, etc.
+- SelfHost it, update the wordlist daily by yourself, and run a live check locally.
